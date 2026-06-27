@@ -1,0 +1,320 @@
+{
+  "Çorbalar": [
+    {
+      "name": "İşkembe",
+      "description": "Türk mutfağının şifa kaynağı! Özenle temizlenmiş dana işkembesi, uzun süre kaynatlarak lokum kıvamına getirilir. Sarımsaklı sirke, acı biber ve limonla birleştiğinde tam bir efsaneye dönüşür.",
+      "price": "260.000 TL",
+      "image": "İşkembe.jpg"
+    },
+    {
+      "name": "İşkembe Tuzlama",
+      "description": "İşkembenin en kalın ve lezzetli bölümlerinden hazırlanan bu özel çorba, iri doğranmış parçalarıyla klasik işkembeden ayrılır. Uzun süre kaynatlarak elde edilen yoğun aroması, terbiyesiyle birleşince tam bir lezzet şölenine dönüşür.",
+      "price": "220.000 TL",
+      "image": "İşkembe Tuzlama.jpg"
+    },
+    {
+      "name": "Şırdan Tuzlama",
+      "description": "Adana mutfağının vazgeçilmezlerinden biri olan şırdan, özel baharatlarla marine edilip özenle temizlenmiş kuzu midesinden hazırlanır. Tuzlama yöntemiyle pişirilen bu lezzet, hem yumuşak dokusu hem de yoğun aroması damakta iz bırakır.",
+      "price": "240.000 TL",
+      "image": "Şırdan Tuzlama.jpg"
+    },
+    {
+      "name": "Kelle Paça",
+      "description": "Kuzu kelle ve paça parçalarının uzun süre haşlanmasıyla elde edilen bu geleneksel çorba, hem kolajen hem de protein açısından zengin bir şifa kaynağıdır.",
+      "price": "250.000 TL",
+      "image": "Kelle Paça.jpg"
+    },
+    {
+      "name": "Ayak Paça",
+      "description": "Kuzu veya dana ayaklarından elde edilen bu yoğun kıvamlı çorba, kolajen deposu olmasıyla bilinir. Uzun süre kaynatlarak kemik iliği ve tendonlarının özünü salması sağlanır.",
+      "price": "230.000 TL",
+      "image": "Ayak Paça.jpg"
+    }
+  ],
+  "Döner": [
+    {
+      "name": "Porsiyon Döner",
+      "description": "Lezzetli yaprak et döner, özenle marine edilmiş dana etinden hazırlanır. Geleneksel yöntemlerle pişirilip ince ince kesilerek servis edilir. Yanında pilav, domates, biber ve tercihe göre turşu ile sunulur. Hem doyurucu hem de klasik Türk mutfağının vazgeçilmezidir.",
+      "price": "10.000 TL",
+      "image": "Porsiyon Döner.jpg"
+    },
+    {
+      "name": "Ankara Döneri",
+      "description": "Odun ateşinde ağır ağır pişirilen, dana etinin en özel bölümlerinden hazırlanan Ankara Döneri; ince açılmış hamurun içine özenle hazırlanmış dana döner yerleştirilir.",
+      "price": "8.000 TL",
+      "image": "Ankara Döneri.jpg"
+    },
+    {
+      "name": "Dürüm Döner",
+      "description": "İncecik lavağa sarılmış, özenle marine edilmiş dana veya tavuk döner; közlenmiş biber, domates ve özel soslarla buluşarak enfes bir dürüm halini alır. Hem pratik hem doyurucu olan bu lezzet, hızlı servis ve maksimum tat arayanların favorisi.",
+      "price": "8.000 TL",
+      "image": "Dürüm Döner.jpg"
+    },
+    {
+      "name": "İskender",
+      "description": "Tereyağında kızartılmış pide parçalarının üzerine özenle hazırlanmış yaprak döner yerleştirilir. Üzerine sıcak domates sosu gezdirilir ve son dokunuş olarak eritilmiş tereyağı döküllür. Yanında yoğurtla servis edilen İskender, hem göze hem damağa hitap eden bir ziyafettir.",
+      "price": "9.000 TL",
+      "image": "İskender.jpg"
+    },
+    {
+      "name": "Kapalı Döner",
+      "description": "Kapalı Döner, ince açılmış hamurun içine özenle hazırlanmış dana döner yerleştirilmesiyle hazırlanır. Üzerine kaşar peyniri, domates ve özel baharatlar eklenerek fırında pişirilir. Dışı çıtır, içi bol malzemeli bu pide türü; hem döner hem de fırın lezzetlerinin birleşimidir.",
+      "price": "9.000 TL",
+      "image": "Kapalı Döner.jpg"
+    }
+  ],
+  "Kebaplar": [
+    {
+      "name": "İnegöl Köfte",
+      "description": "Bursa'nın meşhur köftesi, yumuşak ve baharatı.",
+      "price": "7.000 TL",
+      "image": "İnegöl Köfte.jpg"
+    },
+    {
+      "name": "Kaşarlı Köfte",
+      "description": "İçinden eriyen kaşar çıkan dana köftesi.",
+      "price": "8.000 TL",
+      "image": "Kaşarlı Köfte.jpg"
+    },
+    {
+      "name": "Adana Kebap",
+      "description": "Acılı kuzu kıymasıyla şişte mangal lezzeti.",
+      "price": "7.500 TL",
+      "image": "Adana Kebap.jpg"
+    },
+    {
+      "name": "Beyti Kebap",
+      "description": "Lavağa sarılı kıymalı kebap, yoğurt ve sosla servis.",
+      "price": "9.000 TL",
+      "image": "Beyti Kebap.jpg"
+    },
+    {
+      "name": "Beğendili Kebap",
+      "description": "Mangal kebabı, beğendi sosunun üzerine servis.",
+      "price": "10.000 TL",
+      "image": "Beğendili Kebap.jpg"
+    },
+    {
+      "name": "Domatesli Kebap",
+      "description": "Taze domates ve soğanla pişirilen lezzetli kebap.",
+      "price": "9.500 TL",
+      "image": "Domatesli Kebap.jpg"
+    },
+    {
+      "name": "Patlıcan Kebap",
+      "description": "Patlıcan sosu ile hazırlanan enfes kebap.",
+      "price": "9.000 TL",
+      "image": "Patlıcan Kebap.jpg"
+    },
+    {
+      "name": "Püreli Kebap",
+      "description": "Patates püresinin üzerine servis edilen kebap.",
+      "price": "9.000 TL",
+      "image": "Püreli Kebap.jpg"
+    },
+    {
+      "name": "Taş Kebap",
+      "description": "Taş üzerinde pişirilen geleneksel kebap.",
+      "price": "10.000 TL",
+      "image": "Tas Kebap.jpg"
+    },
+    {
+      "name": "Orman Kebabı",
+      "description": "Karışık sebzelerle pişirilen lezzet.",
+      "price": "9.500 TL",
+      "image": "Orman Kebabı.jpg"
+    },
+    {
+      "name": "Çiftlik Kebabı",
+      "description": "Köy tarzı hazırlanan geleneksel kebap.",
+      "price": "10.000 TL",
+      "image": "Çiftlik Kebabı.jpg"
+    },
+    {
+      "name": "Kuşbaşılı Kebap",
+      "description": "Küçük parçalı et kebabı, sebzelerle pişirilir.",
+      "price": "9.500 TL",
+      "image": "Kuşbaşılı Kebap.jpg"
+    }
+  ],
+  "Pideler": [
+    {
+      "name": "Kıymalı Pide",
+      "description": "Taze hamur, lezzetli kıyma ve özel baharatlarla hazırlanan klasik pide.",
+      "price": "7.000 TL",
+      "image": "Kıymalı Pide.jpg"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "description": "Eriyen kaşar peyniriyle dolu enfes pide.",
+      "price": "7.500 TL",
+      "image": "Kaşarlı Pide.jpg"
+    },
+    {
+      "name": "Sucuklu Pide",
+      "description": "Sucuk ve peynir kombinasyonuyla hazırlanan lezzetli pide.",
+      "price": "8.000 TL",
+      "image": "Sucuklu Pide.jpg"
+    },
+    {
+      "name": "Karışık Pide",
+      "description": "Kıyma, kaşar ve sebzelerle dolu zengin pide.",
+      "price": "8.500 TL",
+      "image": "Karışık Pide.jpg"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "description": "Küçük parçalı et, sebze ve peynirle hazırlanan pide.",
+      "price": "8.500 TL",
+      "image": "Kuşbaşılı Pide.jpg"
+    }
+  ],
+  "Et Yemekleri": [
+    {
+      "name": "Kuzu Kelle",
+      "description": "Geleneksel yöntemle pişirilen yumuşak kuzu kellesi.",
+      "price": "12.000 TL",
+      "image": "Kuzu Kelle.jpg"
+    },
+    {
+      "name": "Dana Rosto",
+      "description": "Uzun süre pişirilen, çok yumuşak dana rosto.",
+      "price": "13.000 TL",
+      "image": "Dana Rosto.jpg"
+    },
+    {
+      "name": "Beyin Tava",
+      "description": "Taze beyin, baharatlarla hazırlanan lezzet.",
+      "price": "10.000 TL",
+      "image": "Beyin Tava.jpg"
+    },
+    {
+      "name": "Tereyağında Tuzlama",
+      "description": "Tereyağında pişirilen yumuşak et yemeği.",
+      "price": "11.000 TL",
+      "image": "Tereyağında Tuzlama.jpg"
+    },
+    {
+      "name": "İşkembe Güveç",
+      "description": "Güveçte pişirilen işkembe yemeği.",
+      "price": "10.500 TL",
+      "image": "İşkembe Güveç.jpg"
+    }
+  ],
+  "Specialler": [
+    {
+      "name": "Lahmacun",
+      "description": "Taze hamur üzerine kıymalı harç sürülerek pişirilen Türk pizzası.",
+      "price": "6.000 TL",
+      "image": "Lahmacun.jpg"
+    },
+    {
+      "name": "Mumbar Dolma",
+      "description": "Pirinç ve baharat dolgusuyla hazırlanan geleneksel dolma.",
+      "price": "8.000 TL",
+      "image": "Mumbar Dolma.jpg"
+    }
+  ],
+  "Salatalar": [
+    {
+      "name": "Çoban Salata",
+      "description": "Taze sebzelerle hazırlanan klasik çoban salatası.",
+      "price": "5.000 TL",
+      "image": "Çoban Salata.jpg"
+    },
+    {
+      "name": "Mevsim Salata",
+      "description": "Mevsimin taze sebzeleriyle hazırlanan salata.",
+      "price": "5.500 TL",
+      "image": "Mevsim Salata.jpg"
+    },
+    {
+      "name": "Beyin Salata",
+      "description": "Beyin, sebze ve özel sosla hazırlanan salata.",
+      "price": "6.000 TL",
+      "image": "Beyin Salata.jpg"
+    },
+    {
+      "name": "Cacık",
+      "description": "Yoğurt, salatalık ve sarımsakla hazırlanan serinletici cacık.",
+      "price": "4.000 TL",
+      "image": "Cacık.jpg"
+    }
+  ],
+  "İçecekler": [
+    {
+      "name": "Çay",
+      "description": "Sıcak ve aromatik Türk çayı.",
+      "price": "2.000 TL",
+      "image": "Çay.jpg"
+    },
+    {
+      "name": "Ayran",
+      "description": "Taze ve soğuk ayran.",
+      "price": "3.000 TL",
+      "image": "Ayran.jpg"
+    },
+    {
+      "name": "Su",
+      "description": "Soğuk içme suyu.",
+      "price": "1.500 TL",
+      "image": "Su.jpg"
+    },
+    {
+      "name": "Kola",
+      "description": "Soğuk kola içeceği.",
+      "price": "3.500 TL",
+      "image": "Kola.jpg"
+    },
+    {
+      "name": "Fanta",
+      "description": "Renkli ve ferah Fanta içeceği.",
+      "price": "3.500 TL",
+      "image": "Fanta.jpg"
+    },
+    {
+      "name": "Meyve Suyu",
+      "description": "Taze meyve suyu.",
+      "price": "4.000 TL",
+      "image": "Meyve Suyu.jpg"
+    },
+    {
+      "name": "Soda",
+      "description": "Soğuk soda içeceği.",
+      "price": "3.000 TL",
+      "image": "Soda.jpg"
+    }
+  ],
+  "Tatlılar": [
+    {
+      "name": "Sütlaç",
+      "description": "Kremalı ve tatlı sütlaç.",
+      "price": "5.000 TL",
+      "image": "Sütlaç.jpg"
+    },
+    {
+      "name": "Fırında Sütlaç",
+      "description": "Fırında pişirilen karamelize sütlaç.",
+      "price": "5.500 TL",
+      "image": "Fırında Sütlaç.jpg"
+    },
+    {
+      "name": "Sütlü Kadayıf",
+      "description": "Tatlı ve yumuşak kadayıf.",
+      "price": "6.000 TL",
+      "image": "Sütlü Kadayıf.jpg"
+    },
+    {
+      "name": "Kaymaklı Ekmek Kadayıfı",
+      "description": "Kaymak ve ekmek kadayıfı kombinasyonu.",
+      "price": "7.000 TL",
+      "image": "Kaymaklı Ekmek Kadayıfı.jpg"
+    },
+    {
+      "name": "Şekerpade",
+      "description": "Geleneksel şekerpade tatlısı.",
+      "price": "5.500 TL",
+      "image": "Şekerpade.jpg"
+    }
+  ]
+}

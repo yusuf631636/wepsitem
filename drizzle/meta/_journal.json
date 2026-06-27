@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782545935559,
+      "tag": "0000_lethal_titania",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1782546175508,
+      "tag": "0001_gifted_smiling_tiger",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1782546798952,
+      "tag": "0002_orange_jack_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1782547700824,
+      "tag": "0003_acoustic_blackheart",
+      "breakpoints": true
+    }
+  ]
+}
